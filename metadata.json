@@ -1,0 +1,10 @@
+{
+  "name": "VoIP Network Health Analyzer (VNHA)",
+  "description": "One-click VoIP diagnostics, RTP Jitter, WinMTR network path, SIP ALG, DNS, WiFi, and AI-powered diagnostic engine for VoIP & PBXware",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
